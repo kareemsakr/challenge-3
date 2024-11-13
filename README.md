@@ -15,12 +15,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/kareemsakr/challenge-3)
+- Live Site URL: [Add live site URL here](https://kareemsakr.github.io/challenge-3/)
 
 ## My process
 
